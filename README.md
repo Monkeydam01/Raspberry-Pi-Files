@@ -1,7 +1,4 @@
 # Raspberry-Pi-Files
 Everything I programmed with the Raspberry PI
 
-Actual Files:
-
-- Raspbian
-    -  How to install
+VISITE MY WIKI FOR THE STEP BY STEP TUTORIALS
