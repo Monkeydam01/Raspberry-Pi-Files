@@ -2,4 +2,5 @@
 Everything I programmed with the Raspberry PI
 
 Actual Files:
-COMMING SOON
+Raspbian
+  - How to install
