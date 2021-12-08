@@ -1,0 +1,12 @@
+1. Go to this site: https://www.raspberrypi.org/downloads.../ (Raspberry PI Imager)
+2. Install the Imager
+
+3. Now choose by "Operating System" "Raspberry Pi OS"
+4. Choose by "SD Card" your SD card
+5. Now hit "WRITE"
+
+6. Wait till erverything is done
+
+7. Plugin the SD Card to your Raspberry PI and start the little Computer
+
+DONE!!!
